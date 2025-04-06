@@ -40,18 +40,24 @@ Repositories act as a centralized place to store all your project files and thei
 - Version control, to change back to previous versions
 - Collaboration with other GitHub accounts
 
+![here is an example](./Images/Repo.jpg)
+
 🔗 [Learn more about Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
 
 ### 🔸 Branches
 Branches let you work on new features or fixes without affecting the main project.
 - Create with `git branch feature-branch`
 - Switch with `git checkout feature-branch`
-- Merge when ready
+- Merge when ready (look at pull request section)
+  
+![here is an example](./Images/Branch.jpg)
 
 🔗 [About Branches](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
 
 ### 🔸 Forks
 Forking creates a personal copy of someone else’s project so you can experiment without affecting the original.
+
+![here is an example](./Images/Fork1.jpg) ![here is an example](./Images/Fork2.jpg)
 
 🔗 [Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
@@ -60,6 +66,8 @@ Suggest changes from your branch back to the main project. Use pull requests to:
 - Request reviews
 - Start discussions
 - Merge your work
+
+![here is an example](./Images/Merging.jpg)
 
 🔗 [About Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 
@@ -132,6 +140,9 @@ git push origin your-branch
 ```
 
 ---
+
+![here is an example](./Images/History.jpg)
+
 ## ✅ Assignment Instructions
 
 ### Step 1: Clone the Repository
