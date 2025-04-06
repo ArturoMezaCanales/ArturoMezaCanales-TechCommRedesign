@@ -28,7 +28,7 @@ GitHub is a **cloud-based platform** that builds on Git, allowing users to:
 - Store repositories online
 - Use features like pull requests, issues, and project boards
 
-Whether you're analyzing data or building games, GitHub is a great tool to collaborate with others.
+Whether you are analyzing data or building games, GitHub is a great tool to organize your project and collaborate with others.
 
 ---
 
@@ -48,7 +48,7 @@ Repositories act as a centralized place to store all your project files and thei
 Branches let you work on new features or fixes without affecting the main project.
 - Create with `git branch feature-branch`
 - Switch with `git checkout feature-branch`
-- Merge when ready (look at pull request section)
+- Merge when ready (look at the pull-request section)
   
 ![here is an example](./Images/Branch.jpg)
 
@@ -62,10 +62,10 @@ Forking creates a personal copy of someone else’s project so you can experimen
 🔗 [Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 ### 🔸 Pull Requests
-Suggest changes from your branch back to the main project. Use pull requests to:
-- Request reviews
+Suggest changes from your branch back to the main project. It should be reviewed by another contributor before merging to the main branch. This is a great way to make sure your code doesn't cause any problems with the previous code. Use pull requests to:
 - Start discussions
-- Merge your work
+- Learn more from other contributors
+- Refine code to make it clean and concise
 
 ![here is an example](./Images/Merging.jpg)
 
@@ -78,7 +78,7 @@ Track bugs, tasks, or ideas. Issues help organize work and facilitate communicat
 
 ### 🔸 Markdown
 Style your text with [Markdown](https://guides.github.com/features/mastering-markdown/). Use it to:
-- Format README files
+- Format README files for ease of access to new users
 - Enhance issues and pull requests
 - Add links, lists, images, and more
 
@@ -149,7 +149,8 @@ git push origin your-branch
 ```bash
 git clone <repo-url>
 ```
-Or use **Codespaces** via the green "Code" button.
+The URL can be found via the green "Code" button -> local -> HTTPS
+Or use **Codespaces** also via the "Code" button.
 
 ### Step 2: Create a Branch
 ```bash
