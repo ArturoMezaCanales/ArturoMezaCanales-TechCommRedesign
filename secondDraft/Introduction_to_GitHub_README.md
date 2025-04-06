@@ -24,21 +24,21 @@ Git is a **version control system (VCS)** that helps developers:
 
 ### GitHub
 GitHub is a **cloud-based platform** that builds on Git, allowing users to:
-- Store repositories online
 - Share and manage projects
+- Store repositories online
 - Use features like pull requests, issues, and project boards
 
-Whether you're analyzing data or building games, GitHub supports your journey.
+Whether you're analyzing data or building games, GitHub is a great tool to collaborate with others.
 
 ---
 
 ## 📘 Key GitHub Concepts
 
 ### 🔸 Repositories
-Organize and store your code. Each repository may include:
-- Code files
-- Documentation (like a README)
-- Project tracking tools
+Repositories act as a centralized place to store all your project files and their entire history. They support:
+- Code files, associated files & documentation
+- Version control, to change back to previous versions
+- Collaboration with other GitHub accounts
 
 🔗 [Learn more about Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
 
