@@ -32,35 +32,6 @@ Whether you're analyzing data or building games, GitHub supports your journey.
 
 ---
 
-## 🔁 GitHub Workflow Overview
-
-### 1. Repositories
-Your project's home base. A repository contains:
-- Files and folders
-- Change history
-- Collaboration tools
-
-You can work privately or invite collaborators.
-
-### 2. Cloning
-Copy a repository to your local machine:
-```bash
-git clone <repo-url>
-```
-This lets you edit code offline and use your favorite tools. Learn more: [Cloning a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-
-### 3. Committing & Pushing
-- **Commit**: Save a checkpoint of your changes
-- **Push**: Send those changes to GitHub
-
-```bash
-git add .
-git commit -m "Describe what you changed"
-git push origin your-branch
-```
-
----
-
 ## 📘 Key GitHub Concepts
 
 ### 🔸 Repositories
@@ -133,7 +104,34 @@ Discover trending projects, events, and developers.
 🔗 [Visit GitHub Explore](https://github.com/explore)
 
 ---
+## 🔁 GitHub Workflow Overview
 
+### 1. Repositories
+Your project's home base. A repository contains:
+- Files and folders
+- Change history
+- Collaboration tools
+
+You can work privately or invite collaborators.
+
+### 2. Cloning
+Copy a repository to your local machine:
+```bash
+git clone <repo-url>
+```
+This lets you edit code offline and use your favorite tools. Learn more: [Cloning a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+### 3. Committing & Pushing
+- **Commit**: Save a checkpoint of your changes
+- **Push**: Send those changes to GitHub
+
+```bash
+git add .
+git commit -m "Describe what you changed"
+git push origin your-branch
+```
+
+---
 ## ✅ Assignment Instructions
 
 ### Step 1: Clone the Repository
