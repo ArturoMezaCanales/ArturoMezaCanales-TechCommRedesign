@@ -20,7 +20,7 @@ By completing this course, you will:
 Git is a **version control system (VCS)** that helps developers:
 - Track changes in their code
 - Collaborate with others
-- Revert to previous versions when needed
+- Revert files to previous versions when needed
 
 ### GitHub
 GitHub is a **cloud-based platform** that builds on Git, allowing users to:
@@ -35,17 +35,21 @@ Whether you are analyzing data or building games, GitHub is a great tool to orga
 ## 📘 Key GitHub Concepts
 
 ### 🔸 Repositories
-Repositories act as a centralized place to store all your project files and their entire history. They support:
+Repositories act as a centralized place to store all your project files and their entire history. A "commit" is a set of changes made to a repository. A set of commits gives you the entire history of how files have changed. Repositories support:
 - Code files, associated files & documentation
 - Version control, to change back to previous versions
 - Collaboration with other GitHub accounts
 
 ![here is an example](./Images/Repo.jpg)
 
-🔗 [Learn more about Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
+![here is an example](./Images/History.jpg)
+
+
+
+🔗 [About Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
 
 ### 🔸 Branches
-Branches let you work on new features or fixes without affecting the main project.
+Branches let you work on new features or fixes without affecting the main project. The main branch should be reserved for the latest working version of the project.
 - Create with `git branch feature-branch`
 - Switch with `git checkout feature-branch`
 - Merge when ready (look at the pull-request section)
@@ -59,7 +63,7 @@ Forking creates a personal copy of someone else’s project so you can experimen
 
 ![here is an example](./Images/Fork1.jpg) ![here is an example](./Images/Fork2.jpg)
 
-🔗 [Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+🔗 [About Forks](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 ### 🔸 Pull Requests
 Suggest changes from your branch back to the main project. It should be reviewed by another contributor before merging to the main branch. This is a great way to make sure your code doesn't cause any problems with the previous code. Use pull requests to:
@@ -82,7 +86,7 @@ Style your text with [Markdown](https://guides.github.com/features/mastering-mar
 - Enhance issues and pull requests
 - Add links, lists, images, and more
 
-🔗 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+🔗 [About Markdown Files](https://www.markdownguide.org/cheat-sheet/)
 
 ### 🔸 Your GitHub Profile
 Your profile showcases:
@@ -90,7 +94,7 @@ Your profile showcases:
 - Followers and activity
 - A custom profile README
 
-🔗 [Managing Your Profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+🔗 [About Managing Your Profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
 ---
 
@@ -99,17 +103,17 @@ Your profile showcases:
 ### ⭐ Starring Repositories
 Bookmark interesting projects. Your stars also personalize GitHub's Explore page.
 
-🔗 [Saving Repositories with Stars](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)
+🔗 [About Repository Stars](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)
 
 ### 👤 Following Users
 Follow developers to see their activity and discover new content.
 
-🔗 [Following People](https://docs.github.com/en/github/getting-started-with-github/following-people)
+🔗 [About Following People](https://docs.github.com/en/github/getting-started-with-github/following-people)
 
 ### 🔍 GitHub Explore
 Discover trending projects, events, and developers.
 
-🔗 [Visit GitHub Explore](https://github.com/explore)
+🔗 [About GitHub Explore](https://github.com/explore)
 
 ---
 ## 🔁 GitHub Workflow Overview
@@ -141,7 +145,7 @@ git push origin your-branch
 
 ---
 
-![here is an example](./Images/History.jpg)
+
 
 ## ✅ Assignment Instructions
 
